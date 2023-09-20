@@ -1,0 +1,7 @@
+Load_*/
+PlaneS*/
+Results/
+abaqus.rpy*
+*.log
+*.pyc
+*.rpy
